@@ -35,7 +35,7 @@ Este projeto foi construído com React Native (Expo) e demonstra o gerenciamento
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [[link do repositório]](https://github.com/mayck-eduardo/agenda.git)
+    git clone (https://github.com/mayck-eduardo/agenda.git)
     cd agenda
     ```
 
